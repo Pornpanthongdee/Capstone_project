@@ -7,7 +7,7 @@ Time to learn from the best salary predictive model by the reigning champions!
 ### [Presentation Deck](https://docs.google.com/presentation/d/1QSpYMdCrlEl3wdwssKuIt7JN9-Q02OLw6fDBlcZVQaA/edit#slide=id.p)
 
 ### Dataset and Competition
-[Employee-Compensation in SF (https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd/data)
+[Employee-Compensation in SF](https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd/data)
 
 ### Problem Statement
 
