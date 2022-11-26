@@ -2,7 +2,7 @@
 
 Welcome to nurse industry! 
 
-Time to learn from the best salary predictive model by the reigning champions!
+Time to learn from the best salary predictive model!
 
 ### [Presentation Deck](https://docs.google.com/presentation/d/1Bx1pUgvK1AhBNoxpyS6QjJyM7I4gajOwSlwokChLMks/edit#slide=id.g19f66822c77_0_57)
 
