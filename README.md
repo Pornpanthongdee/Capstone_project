@@ -4,7 +4,7 @@ Welcome to nurse industry!
 
 Time to learn from the best salary predictive model by the reigning champions!
 
-### [Presentation Deck](https://docs.google.com/presentation/d/1QSpYMdCrlEl3wdwssKuIt7JN9-Q02OLw6fDBlcZVQaA/edit#slide=id.p)
+### [Presentation Deck](https://docs.google.com/presentation/d/1Bx1pUgvK1AhBNoxpyS6QjJyM7I4gajOwSlwokChLMks/edit#slide=id.g19f66822c77_0_57)
 
 ### Dataset and Competition
 [Employee-Compensation in SF](https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd/data)
