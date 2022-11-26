@@ -1,8 +1,7 @@
 # Project Nurse Salary Prediction in San Francisco
 
-Welcome to nurse industry! 
+Welcome to the nursing industry!
 
-Time to learn from the best salary predictive model!
 
 ### [Presentation Deck](https://docs.google.com/presentation/d/1Bx1pUgvK1AhBNoxpyS6QjJyM7I4gajOwSlwokChLMks/edit#slide=id.g19f66822c77_0_57)
 
@@ -12,7 +11,7 @@ Time to learn from the best salary predictive model!
 ### Problem Statement
 
 1. A new hospital wanting to hire nurses wishes to know the industry standard for salaries.
-2. HR want to know how much they should offer candidates.
+2. HR wants to know how much they should offer candidates.
  
 ### EDA
 1. Filter only target nurses
