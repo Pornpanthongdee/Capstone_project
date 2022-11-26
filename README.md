@@ -12,7 +12,7 @@ Time to learn from the best salary predictive model by the reigning champions!
 ### Problem Statement
 
 1. New hospital want to hire nurses  so they want to know the industry standards salary
-2.HR want to know how much they should offer candidates
+2. HR want to know how much they should offer candidates
  
 ### EDA
 1. Filter only target nurses
