@@ -21,9 +21,9 @@ Welcome to the nursing industry!
 5. Create feature columns such as Total year, Job Title, Start salary, 2018 salary,Increase Rate : (2018-start)/start,2019 salary
 
 ### Final Model
-1. Top 2 features
+1. Top 2 features ['Start Salary', 'Job Title']
 2. dummy_jobtitle = ['REGISTERED NURSE', 'LICENSED VOCATIONAL NURSE', 'NURSING ASSISTANT', 'NURSE MANAGER', 'PUBLIC HEALTH NURSE']
-3. Log Y (Salary 2019)
+3. Y (Salary 2019)
 
 ### Business Recommendation
 If you are considering hiring nurses in San Francisco, you can use this model to efficiently predict salaries
